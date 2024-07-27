@@ -35,7 +35,7 @@ const MainNavigation = () => {
                     <span />
                 </button>
                 <h1 className="main-navigation__title">
-                    <Link>
+                    <Link to={'/'}>
                         eTour
                     </Link>
                 </h1>
