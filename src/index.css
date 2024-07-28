@@ -11,6 +11,8 @@ html {
 body {
   margin: 0;
   background: #3e3e3e;
+  /* background: linear-gradient(to bottom, #000000, #3f0244, #a45bab, #f8e1fa); */
+  background-attachment: fixed;
 }
 
 .slide-in-left-enter {
